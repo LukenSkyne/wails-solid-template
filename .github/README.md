@@ -20,6 +20,10 @@ To use this template, run the following command in your desired directory:
 
 `wails init -n my-solid-app -t https://github.com/LukenSkyne/wails-solid-template`
 
+After navigating into the project directory with `cd my-solid-app` you can start the app in development mode:
+
+`wails dev`
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
