@@ -17,4 +17,4 @@
   "dependencies": {
     "solid-js": "^1.6.1"
   }
-,"author":"{{.AuthorName}}"}
+}
