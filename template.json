@@ -1,0 +1,7 @@
+{
+  "name": "wails-solid-template",
+  "shortname": "solid",
+  "author": "LukenSkyne <github@luken.cc>",
+  "description": "A template using solid with typescript",
+  "helpurl": "https://github.com/LukenSkyne/wails-solid-template"
+}
