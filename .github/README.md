@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/LukenSkyne/wails-solid-template/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/LukenSkyne/wails-solid-template"/>
+  </a>
+</p>
+
+<p align="center">
   Wails template using SolidJS
 </p>
 
